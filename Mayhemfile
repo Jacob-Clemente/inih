@@ -1,0 +1,5 @@
+project: jacob-clemente/inih
+target: inih
+
+cmds:
+  - cmd: /inih @@
